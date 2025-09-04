@@ -1,14 +1,3 @@
----
-category: 教程
-description: Replay是一个自动化的AI翻唱软件，用户仅需要提供想要翻唱的歌和RVC模型，Replay会自动进行人声分离，并生成AI翻唱音频，对于新手来说十分友好
-draft: false
-image: ../assets/images/e3b7630170caac0dc92e9f62d510c1a8.webp
-lang: ''
-published: 2024-10-15
-tags:
-- Replay
-title: 傻瓜式AI翻唱软件Replay！选歌！选模型！然后CREATE SONG！
----
 ### AI翻唱！仅需两步！
 
 1. 前往[Replay | Free AI Voice Cloning and Stemming using RVC Models (tryreplay.io)](https://www.tryreplay.io/)下载Replay

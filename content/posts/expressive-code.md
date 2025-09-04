@@ -1,12 +1,3 @@
----
-title: Expressive Code 记录
-published: 2025-08-11
-description: 如何使用Expressive Code 代码块及迁移踩坑记录
-tags: [Markdown, Blogging, Demo]
-image: '../assets/images/2025-08-11-21-58-55-image.png'
-category: Default
-draft: false
----
 
 > 本文非站长原创，由 [Expressive code by yCENzh · Pull Request #27 · afoim/fuwari](https://github.com/afoim/fuwari/pull/27) 提供
 

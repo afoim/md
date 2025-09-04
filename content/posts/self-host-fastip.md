@@ -1,13 +1,3 @@
----
-title: 都5202年了，还有人不会自建自己的Cloudflare/EdgeOne等各种CDN的优选？
-published: 2025-07-22
-description: '自建各大CDN服务的优选域名非常简单，只需要先这样，再这样...但是踩坑的地方也不少...'
-image: '../assets/images/5df07ad0-01cd-4541-9321-b0ded148a90f.webp'
-tags: [优选, CDN]
-category: '教程'
-draft: false 
-lang: ''
----
 
 # 基本思路
 

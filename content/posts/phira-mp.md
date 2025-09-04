@@ -1,14 +1,3 @@
----
-category: 教程
-description: 懒人可以直接下载预构建的可执行文件，但如果想获得日志需要自备Rust环境
-draft: false
-image: ../assets/images/2024-11-06-08-20-39-image.webp
-lang: ''
-published: 2024-11-06
-tags:
-- Phira
-title: Phira多人联机服务器搭建/使用教程
----
 # 直接下载服务端文件并运行
 
 [https://github.com/afoim/phira-mp-autobuild](https://github.com/afoim/phira-mp-autobuild)

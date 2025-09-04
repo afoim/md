@@ -1,13 +1,3 @@
----
-title: 手把手教你用上微信企业（域名）邮箱（免费！）
-published: 2025-05-02
-description: '非常简单，只需要改几个MX记录就行~'
-image: ../assets/images/2025-05-02-21-04-48-image.png
-tags: [域名邮箱, 微信企业邮]
-category: '教程'
-draft: false 
-lang: ''
----
 
 # 前情提要
 

@@ -1,13 +1,3 @@
----
-title: 对标CF Worker？拿EdgeOne边缘函数做一个随机图API！
-published: 2025-08-01
-description: '很早就知道EdgeOne边缘函数，一直都没来得及体验，今天上手后发现它真的很强大'
-image: '../assets/images/6c1b4054-0a9a-42dd-a72b-d179216ac61f.webp'
-tags: [EdgeOne]
-category: '教程'
-draft: false 
-lang: ''
----
 
 # 正式开始
 

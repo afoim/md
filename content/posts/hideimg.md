@@ -1,13 +1,3 @@
----
-title: 平平无奇的一张图，拉高曝光就能显现另一张图？
-published: 2025-08-04
-description: '教你制作自己的“光棱坦克”！'
-image: '../assets/images/2025-08-04-12-05-21-image.png'
-tags: [图片隐写]
-category: '教程'
-draft: false 
-lang: ''
----
 
 # 体验站点
 

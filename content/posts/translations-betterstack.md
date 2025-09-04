@@ -1,13 +1,3 @@
----
-title: 我给BetterStack的状态页面汉化了
-published: 2025-08-28T18:46:27
-description: '闲来无事，打开BetterStack的状态页面发现一会中文一会英文，受不了了，全部汉化！'
-image: '../assets/images/2025-08-28-18-49-56-image.png'
-tags: [BetterStack]
-
-draft: false 
-lang: ''
----
 
 # 速览
 

@@ -1,14 +1,4 @@
----
-category: 教程
-description: ArchiSteamFarm是一个Steam自动挂卡工具，它可以自动识别哪些游戏没有挂卡并且自动挂卡，高效率获得Steam集换式卡牌
-draft: false
-image: https://eo-r2.2x.nz/myblog/img/QmPEHve8DdVZdwxAZ26BPgbc6cDCBaKC76VVijqVoMBY2k.png
-lang: ''
-published: 2024-12-18
-tags:
-- Steam
-title: 使用ArchiSteamFarm进行Steam自动挂卡
----
+
 # 可用的目标作业系统
 
 Windows x86/Arm64

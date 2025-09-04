@@ -1,15 +1,3 @@
----
-category: 教程
-description: 网易免费企业邮是一个免费的电子邮箱服务，它最重要的特点就是可以绑定你的域名，比如sudo@onani.cn，并且完全免费且能收能发！
-draft: false
-image: ../assets/images/ce9c58a1-6515-4b07-8f4d-5ae55668d9f8.webp
-lang: ''
-published: 2025-03-12
-tags:
-- 网易免费企业邮
-- 域名邮箱
-title: 自建邮局太麻烦？来用网易免费企业邮！绑定你的域名收发自如！
----
 # 引言
 
 最早我开始知道域名邮箱是因为偶然在一位我朋友的开发群内看到他的微软账户绑定的邮箱是admin@他网站的域名.com。

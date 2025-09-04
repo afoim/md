@@ -1,14 +1,3 @@
----
-category: 教程
-description: USTC在下载一些资源的时候会使用JS验证，有没有不用无头浏览器绕过的方法呢...
-draft: false
-image: ../assets/images/58e8e41a-0755-4e6a-ab1e-a9dbaa1042d5.webp
-lang: ''
-published: 2025-04-04
-tags:
-- USTC
-title: 绕过USTC的浏览器JS验证
----
 # 前言
 
 当我们去下载类似于 https://mirrors.ustc.edu.cn/debian-cd/12.10.0/amd64/iso-dvd/debian-12.10.0-amd64-DVD-1.iso 这样的大文件时，USTC大概率会给你一个这样的：正在验证你的浏览器 的页面

@@ -1,13 +1,3 @@
----
-title: 关于Whois查询那点事
-published: 2025-05-28
-description: '你有没想过自己部署一个第三方的Whois查询服务？我做过，这里面全是坑！'
-image: ../assets/images/16ab7a68-892e-429e-a0bc-02d829eead82.webp
-tags: [Whois]
-category: '记录'
-draft: false 
-lang: ''
----
 
 # 前言
 

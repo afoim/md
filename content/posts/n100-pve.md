@@ -1,14 +1,3 @@
----
-category: 记录
-description: 在N100小主机上安装PVE，然后在其中安装飞牛NAS和Debian，实现追番建站分离，并且易扩展，易迁移
-draft: false
-image: ../assets/images/N100-PVE_cover.webp
-lang: ''
-published: 2024-10-28
-tags:
-- PVE
-title: N100 - PVE（fnOS+Debian）基建记录
----
 # 配置&需求
 
 - N100 CPU 频率：最小 700 Mhz, 最大 3400 Mhz | TDP：6 W

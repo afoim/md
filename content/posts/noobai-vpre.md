@@ -1,13 +1,3 @@
----
-title: AI绘图发展了这么多年，你还不会画你推的同人图？
-published: 2025-05-13
-description: '从零教你用上最新的NoobAI-V预测模型！2025年最值得上手最简单好用的模型！'
-image: ../assets/images/2025-05-13-11-54-18-61f7cb01dbaf0cc0d9600129920d6666.png
-tags: [AI绘图, NoobAI]
-category: '教程'
-draft: false 
-lang: ''
----
 
 # 前情提要（坐牢实况）
 

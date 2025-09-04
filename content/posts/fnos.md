@@ -1,14 +1,3 @@
----
-category: 体验
-description: 飞牛NAS系统是一个现代的开源的NAS系统。影视刮削在国内属于TOP1，并且刚需的Docker软件也功能全面易用，博主本人也在使用
-draft: false
-image: ../assets/images/QmUBuX9qmsNP1NHeEeUmuPNdS5ctvk4LchcSsFARDC4vZJ.webp
-lang: ''
-published: 2024-10-14
-tags:
-- 飞牛NAS
-title: 飞牛NAS玩机体验
----
 ### 吸引我的东西
 
 1. 影视刮削：飞快，薄纱Plex几条街。通过[AutoBangumi](/autobangumi)可以完美自动追番+刮削一条龙服务。偶尔会有不准，但可以手动匹配，数据源来自[TMDB](https://www.themoviedb.org/)和[IMDB](https://www.imdb.com/)

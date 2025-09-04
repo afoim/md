@@ -1,13 +1,3 @@
----
-title: CSP标头是什么？为什么有人能神不知鬼不觉地盗走你的信息？
-published: 2025-07-31
-description: 'CSP是内容安全策略，它可以防止攻击者向您的网站恶意注入脚本以盗走用户信息'
-image: '../assets/images/e245d917-2255-4d2d-85fb-aa7538a18022.webp'
-tags: [XSS攻击, CSP]
-category: '记录'
-draft: false 
-lang: ''
----
 
 # 举个例子吧！
 

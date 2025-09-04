@@ -1,14 +1,3 @@
----
-category: 记录
-description: 起因只是凌晨苏醒的灵机一动，然后...
-draft: false
-image: ../assets/images/37fc1d0b-533f-4905-a7ff-ab906fcb1860.webp
-lang: ''
-published: 2025-04-04
-tags:
-- 生活
-title: 卧室布局整改记录
----
 # 前言
 
 我的卧室曾经是这样的，如你所见，非常杂乱且布线乱七八糟

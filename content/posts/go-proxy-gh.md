@@ -1,13 +1,3 @@
----
-title: 在VPS上部署一个自己的Github全站反代！
-published: 2025-06-20
-description: '利用Go作为后端，重写Github发送的HTML，并且创建多个反向代理，从0自建Github全站反代！'
-image: ../assets/images/8d274f86-1dab-4091-8112-d198b5b1ffac.webp
-tags: [Github, 反向代理]
-category: '教程'
-draft: false 
-lang: ''
----
 
 # 引言
 

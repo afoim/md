@@ -1,13 +1,3 @@
----
-title: 简洁的wordpress评论回复插件示例
-published: 2025-08-21
-description: 'Wordpress回复插件'
-image: 'https://imgbed.112601.xyz/file/1755431020051.png'
-tags: [wordpress]
-category: '记录'
-draft: false 
-lang: ''
----
 
 > 本文由 https://github.com/afoim/fuwari/pull/40 提供，非站长原创
 

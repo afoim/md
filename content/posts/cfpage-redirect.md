@@ -1,13 +1,3 @@
----
-title: 利用Cloudflare Page提供的重定向功能实现无损耗、不限数量的静态重定向！
-published: 2025-07-13
-description: 'Cloudflare的重定向规则非常强大，但是如果直接使用重定向规则创建批量重定向会消耗很多的配额'
-image: ../assets/images/530d7a11-c9ea-45ed-905a-1e3965f3e3b3.webp
-tags: [Cloudflare]
-category: '教程'
-draft: false 
-lang: ''
----
 
 # 快速上手！
 

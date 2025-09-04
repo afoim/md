@@ -1,13 +1,3 @@
----
-title: atpx.com 一个有趣的神秘博客
-published: 2025-08-13T18:41:24
-description: '今天在床上打滚突然找到一个神秘博客，还挺有意思的'
-image: '../assets/images/2025-08-13-18-46-20-image.png'
-tags: [博客]
-category: '记录'
-draft: false 
-lang: ''
----
 
 今天偶然找到一个神秘博客，还挺有意思的，于是捐了 100 CNY
 

@@ -1,13 +1,3 @@
----
-title: 利用Github Repo WebHook来为你的订阅者推送文章更新信息
-published: 2025-05-19
-description: '针对于静态博客，博主在文章更新后一般需要手动通知订阅者阅读新的文章，本文通过Github WebHook来实现一个全自动的文章更新通知实现'
-image: ../assets/images/69389a6f-da33-4f53-be34-408b9f88d9e1.webp
-tags: [Github, QQBot]
-category: '教程'
-draft: false 
-lang: ''
----
 
 
 

@@ -1,13 +1,3 @@
----
-title: 为任何站点对接Giscus并且配置反垃圾！
-published: 2025-08-04
-description: '你是否在寻找一个评论系统而又不想自托管？又饱受垃圾评论的叨扰？'
-image: '../assets/images/2025-08-04-12-14-21-image.png'
-tags: [Giscus, 评论区]
-category: '教程'
-draft: false 
-lang: ''
----
 
 # 配置Giscus
 

@@ -1,14 +1,3 @@
----
-category: 教程
-description: Fuwari是一个静态博客框架，Cloudflare Pages是一个托管静态网站的服务，将他俩结合即可得到一个快速安全无需托管的高效博客
-draft: false
-image: ../assets/images/f286ef4d-326c-4c7c-8a1e-ed150937a12b.webp
-lang: ''
-published: 2025-04-30
-tags: [Fuwari, Cloudflare Pages]
-title: Fuwari静态博客搭建教程
-
----
 
 ### 你需要准备的东西
 

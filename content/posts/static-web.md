@@ -1,19 +1,3 @@
----
-category: 记录
-description: Serverless服务有很多，静态托管就是重中之重，来看看谁最稳定快速
-draft: false
-image: ../assets/images/da8b7a38-7247-43af-b272-f012f2dd024d.webp
-lang: ''
-published: 2025-07-14
-tags:
-- Vercel
-- Cloudflare
-- Netlify
-- EdgeOne
-- Github
-- Render
-title: N款CDN/静态托管服务商的优缺点比较
----
 
 # [Netlify](https://www.netlify.com)
 

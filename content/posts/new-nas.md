@@ -1,14 +1,3 @@
----
-category: 随笔
-description: 你可能不知道，我曾经购入过一台N100迷你主机，不久后便卖掉了，不过现在我又购入了，这是为什么呢？
-draft: false
-image: ../assets/images/b8b7d06a-1ca4-4786-a147-5275f57dfb3b.webp
-lang: ''
-published: 2025-02-23
-tags:
-- NAS
-title: 我买了个新NAS...
----
 # 我为什么在很久之前买了一个NAS（？存疑
 
 这其实是一个老生常谈的问题，就像你问我为什么要开始写博客，我也只能给你一个答案，我想这么做。

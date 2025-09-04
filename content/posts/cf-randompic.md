@@ -1,15 +1,3 @@
----
-category: 教程
-description: 使用R2存储图片，通过Workers连接，最后使用a标签或img标签在网页中嵌入展示，全链路上云
-draft: false
-image: ../assets/images/QmVgqgoC7G8NLS21WvR8j9gf5amu33XvuV68ZrgM5B9iFf.webp
-lang: ''
-published: 2025-03-05
-tags:
-- Cloudflare R2
-- Cloudflare Workers
-title: Cloudflare R2+Workers！马上搭建自己的云上图床！
----
 ### **结果图**
 
 ![QmVgqgoC7G8NLS21WvR8j9gf5amu33XvuV68ZrgM5B9iFf.webp](../assets/images/408795f3ec1a5a9baf91b6cd7564d6f1d7dbc5bd.webp)

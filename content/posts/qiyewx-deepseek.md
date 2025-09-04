@@ -1,13 +1,3 @@
----
-title: 你说什么？企业微信能免费用Deepseek？！还能调成猫娘？！！
-published: 2025-08-07
-description: '今天无意中建了个企业微信群，然后就发现可以加智能体，然后就调了个猫娘出来...'
-image: '../assets/images/2025-08-07-04-10-58-image.png'
-tags: [企业微信, Deepseek]
-category: '记录'
-draft: false 
-lang: ''
----
 
 # 正式开始
 

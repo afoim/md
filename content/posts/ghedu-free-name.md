@@ -1,13 +1,3 @@
----
-title: 我去！GithubEdu还能再再再嫖俩免费一年域名？！
-published: 2025-08-11T23:04:10
-description: '也是依旧在群u的帮助下又捞了俩米！'
-image: '../assets/images/2025-08-11-23-05-08-image.png'
-tags: [Github Edu]
-category: '记录'
-draft: false 
-lang: ''
----
 
 # 正式开始
 

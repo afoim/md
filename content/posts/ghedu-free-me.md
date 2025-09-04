@@ -1,13 +1,3 @@
----
-title: wow！有GithubEdu资格？再嫖一个免费一年的.me域名！
-published: 2025-08-11T22:37:55
-description: '在群u的提醒下，发现除了.tech，还能再嫖一个米~'
-image: '../assets/images/2025-08-11-22-39-12-image.png'
-tags: [Github Edu]
-category: '记录'
-draft: false 
-lang: ''
----
 
 > 请先通过[这篇文章](/posts/github-edu/)拿到Github Edu~
 

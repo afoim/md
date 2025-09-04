@@ -1,13 +1,3 @@
----
-title: 有Github Education？来嫖一年免费的.tech域名！
-published: 2025-08-11T21:45:08
-description: '昨天也是成功通过了Github Edu验证，发现可以白嫖一年免费的.tech域名！'
-image: '../assets/images/2025-08-11-21-47-14-9824664fa225fd32def503d0c3bfef12.png'
-tags: [Github Edu]
-category: '记录'
-draft: false 
-lang: ''
----
 
 # 正式开始
 

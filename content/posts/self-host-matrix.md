@@ -1,13 +1,3 @@
----
-title: QQ微信不够私密？自建自己的聊天服务器！
-published: 2025-08-02
-description: '通过自建Synapse，用户可以通过Element等软件来直接在你的服务器上聊天'
-image: '../assets/images/2025-08-02-17-20-32-image.png'
-tags: [Matrix, Synapse]
-category: '教程'
-draft: false 
-lang: ''
----
 
 # 前置环境准备
 

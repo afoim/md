@@ -1,13 +1,3 @@
----
-title: Github新版学生认证怎么过？用记事本！
-published: 2025-08-08
-description: '突然被粉丝怂恿来弄Github学生认证，弄了半天，被我发现了奇技淫巧？？？'
-image: '../assets/images/2025-08-08-01-01-00-image.png'
-tags: [Github]
-category: '教程'
-draft: false 
-lang: ''
----
 
 # 正式开始
 

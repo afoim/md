@@ -1,13 +1,3 @@
----
-category: 教程
-description: 使用CF Worker进行Github全站代理，并且防止网站被Cloudflare投诉为钓鱼网站。同时这也是一个通用的二次重写反代
-draft: false
-image: ../assets/images/8bb2d8ae-1703-44e8-9f3b-10b46ab69913.webp
-lang: ''
-published: 2025-04-15
-tags: [Cloudflare Worker]
-title: 使用Cloudflare Worker搭建Github全站代理（防钓鱼）
----
 # 项目原理
 
 针对于Github这样的网站，我们无法仅使用一个透明的反向代理指向 `Github.com` 来解决，因为Github官网还有许多外域依赖，比如 `raw.githubusercontent.com` ，所以我们还需要写一个逻辑，让Worker重写Github传回的HTML，将其中的外域改为我们自己的域，同时建立多个解析替代

@@ -1,14 +1,3 @@
----
-category: 教程
-description: 使用NapCat连接NoneBot2，打造自己的聊天机器人
-draft: false
-image: ../assets/images/QmcMSSKysZmgUCUk9W7hQUvZCtVSFH6hGKHctg99yo1yDE.webp
-lang: zh_CN
-published: 2024-11-20
-tags:
-- QQBot
-title: 使用NoneBot2搭建你的QQBot！
----
 # 安装 NapCat(Win)
 
 > 用于登录 QQ 实现收发消息

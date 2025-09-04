@@ -1,13 +1,3 @@
----
-title: 关于如何加入我们自托管的m.2x.nz端到端加密聊天服务器
-published: 2025-08-06
-description: '我在一台主机上托管了synapse，现在你可以使用Element通过我的邀请链接加入这个端到端加密聊天服务器'
-image: ../assets/images/d676d367-061a-48ea-9157-ce00c6120232.webp
-tags: [Matrix]
-category: '教程'
-draft: false 
-lang: ''
----
 
 本群已删除 ~~此文本来是针对于 matrix.afo.im 的，现在更改为了 m.2x.nz~~
 

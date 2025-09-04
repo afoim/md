@@ -1,11 +1,3 @@
----
-title: "通过邮件混淆技术增强博客隐私"
-published: 2025-08-12
-description: "利用 rehype-email-protection 插件自动混淆电子邮件地址，保护免受垃圾邮件爬虫侵害的技术实现"
-author: "hxsyzl"
-image: "https://fastr2.497995.xyz/fuwari/image/5fd0835b-93da-4edc-bde5-f0c8aaa24b93.webp"
-tags: ["fuwari优化"]
----
 
 > 本文非站长原创，由 https://github.com/afoim/fuwari/pull/31 提供
 

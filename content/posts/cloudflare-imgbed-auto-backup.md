@@ -1,13 +1,3 @@
----
-title: cloudflare-imgbed项目使用Action自动备份元数据到仓库
-published: 2025-08-21
-description: 'CloudFlare-ImgBed项目用基于GitHub Actions定期自动备份数据脚本'
-image: 'https://imgbed.112601.xyz/file/cloudflare-imgbed-auto-backup/1755368429729.png'
-tags: [cloudflare]
-category: '记录'
-draft: false 
-lang: ''
----
 
 > 本文由 https://github.com/afoim/fuwari/pull/40 提供，非站长原创
 

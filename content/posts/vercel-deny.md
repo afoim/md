@@ -1,13 +1,3 @@
----
-title: 配置Vercel让ITDog测试全部403！
-published: 2025-07-10
-description: '很讨厌别人用ITDog等拨测服务疯狂测试你的站点？拒绝他们！'
-image: ../assets/images/d81562f3-8efb-45f3-8dd1-72cb9c032bc2.webp
-tags: [Vercel]
-category: '教程'
-draft: false 
-lang: ''
----
 
 # 配套视频
 

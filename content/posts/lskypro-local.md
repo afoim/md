@@ -1,13 +1,3 @@
----
-title: lskypro+本地无需授权开心版！
-published: 2025-08-22T04:16:23
-description: '突然发现交付给我的项目是源码，那还逆向什么授权，直接永远返回true呗~'
-image: '../assets/images/2025-08-22-04-17-46-18322f2da2a90304be50614169ab655a.png'
-tags: [兰空图床]
-category: '记录'
-draft: false 
-lang: ''
----
 
 > 仅供学习交流，请在下载后24h内删除。体验地址： [https://lsky.2x.nz](https://lsky.2x.nz)
 > 视频教程： https://www.bilibili.com/video/BV1UieUzQEvq/

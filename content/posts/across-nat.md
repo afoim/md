@@ -1,17 +1,3 @@
----
-category: 教程
-description: 使用Zerotier，Tailscale，Cloudflare Tunnel可以实现多种内网穿透，其中有适用于个人访问的，也有适用于公众访问的
-draft: false
-image: ../assets/images/2024-10-28-17-00-25-image.webp
-lang: ''
-published: 2024-10-28
-tags:
-- Zerotier
-- Tailscale
-- Cloudflare Tunnel
-- STUN
-title: 究极喂饭教程，手把手教你内网穿透
----
 # 经实测，Zerotier的打洞能力明显优于Tailscale，所以建议通过Zerotier来实现内网穿透
 
 详细报表：

@@ -1,13 +1,3 @@
----
-title: 哪吒监控搭建教程
-published: 2025-09-03T04:58:25
-description: '想不想在上帝视角监测你的服务器？顺便再把Uptime Kuma的活也干了！'
-image: '../assets/images/2025-09-03-05-00-43-image.png'
-tags: [哪吒监控]
-
-draft: false 
-lang: ''
----
 
 > 官方教程： https://nezha.wiki/
 

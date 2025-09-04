@@ -1,14 +1,3 @@
----
-category: 随笔
-description: GFW俗称中国网络国家防火墙，它运用多种技术阻断境内对境外某些网站的访问，比如谷歌、Discord。但对于某些阻断方式，通过一些手段，我们可以绕过GFW来进行访问
-draft: false
-image: ../assets/images/Snipaste_2024-10-21_19-36-34.webp
-lang: ''
-published: 2024-10-21
-tags:
-- GFW
-title: 让我们来探讨一下如何绕过GFW
----
 ### 首先，我们要知道GFW是如何封锁我们的流量的
 
 1. IP黑洞：目前无解，但仅对部分服务黑洞，如谷歌系（谷歌、推特、YouTube等）

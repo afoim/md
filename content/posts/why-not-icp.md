@@ -1,13 +1,3 @@
----
-title: 关于本站为什么不进行ICP备案
-published: 2025-07-29
-description: '由于诸多原因，本站并未进行ICP备案，这里记录了一些原因'
-image: '../assets/images/d24c6c12-a8c9-4577-a4bc-0de768c23337.webp'
-tags: [ICP]
-category: '记录'
-draft: false 
-lang: ''
----
 
 # 违规内容
 

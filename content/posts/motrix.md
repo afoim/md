@@ -1,13 +1,3 @@
----
-title: 浏览器自带下载慢？你需要一个三方下载器Mortix！
-published: 2025-05-26
-description: '经常使用Chromium的同学都知道，使用浏览器自带的下载模块经常没有速度，而这个时候我们便需要使用一些三方下载器，而本期推荐的Motrix是免费的开源的博主本人也在使用的高性能高颜值简约强大的下载器'
-image: ../assets/images/ee0efba8-8c27-449f-86d0-3e9367d12463.webp
-tags: [Mortix, 下载器]
-category: '教程'
-draft: false 
-lang: ''
----
 
 # 原理
 

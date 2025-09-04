@@ -1,13 +1,3 @@
----
-title: 让你的网站对接高级的Umami统计！
-published: 2025-07-06
-description: 'Umami是一个站点统计服务，只需要插入一行js即可获得高效，易读，可观察性的站点统计！'
-image: ../assets/images/6eedb10a-08d3-4268-8caf-370bc093a668.webp
-tags: [Umami]
-category: '教程'
-draft: false 
-lang: ''
----
 
 # 正式开始
 

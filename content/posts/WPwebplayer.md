@@ -1,13 +1,3 @@
----
-title: 【开源】WPwebplayer——简洁通用的网页播放器
-published: 2025-08-09
-description: '一款简单，简洁，轻量,通用的开源网站音乐播放器'
-image: '../assets/images/屏幕截图 2025-08-09 213908.png'
-tags: [Web]
-category: '记录'
-draft: false 
-lang: ''
----
 
 > 本文章非站长本人撰写，由他人Pr添加： https://github.com/afoim/fuwari/pull/23
 

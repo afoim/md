@@ -1,13 +1,3 @@
----
-title: 利用Vercel Function搭建一个Github全站反代
-published: 2025-08-30T21:35:52
-description: '嫌弃CF Worker不够快？那就试试Vercel Function！'
-image: '../assets/images/2025-08-30-22-09-42-image.png'
-tags: [Vercel]
-
-draft: false 
-lang: ''
----
 
 # 正式开始
 

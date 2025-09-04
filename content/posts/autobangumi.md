@@ -1,12 +1,3 @@
----
-category: 教程
-description: 使用AutoBangumi连接qBittorrent下载番剧，然后使用刮削软件刮削，设置一遍，享受终身
-image: ../assets/images/QmXYf2u6BZMseAzjPUhcHsdfdhQpc3XkdjuEi4VvE1BkTn.webp
-lang: zh_CN
-published: 2025-02-25
-tags: [AutoBangumi]
-title: 教你搭建自己的番剧库，实现自动追番！
----
 
 # 实现流程：
 

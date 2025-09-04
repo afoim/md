@@ -1,13 +1,3 @@
----
-title: 大陆直连TG Web？触手可及！
-published: 2025-08-02
-description: 'TG Web采用前后端分离，前端可以部署到静态托管平台，而后端可以用各种服务反代'
-image: '../assets/images/2025-08-02-18-10-18-image.png'
-tags: [Telegram Web, 反向代理]
-category: '记录'
-draft: false 
-lang: ''
----
 
 # 注意，将该项目直接绑定到你的域名会吃Abuse
 

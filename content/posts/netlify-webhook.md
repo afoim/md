@@ -1,13 +1,3 @@
----
-title: 利用Netlify WebHook来实时提醒你的订阅者博客文章更新
-published: 2025-08-09T00:01:00
-description: '早期提过使用Github WebHook来做到这件事，今天偶然发现了Netlify也可以做到同样的事情'
-image: '../assets/images/2025-08-09-23-03-37-image.png'
-tags: [Netlify]
-category: '记录'
-draft: false 
-lang: ''
----
 
 # 原理
 

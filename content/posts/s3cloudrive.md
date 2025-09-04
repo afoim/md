@@ -1,13 +1,3 @@
----
-title: 让Vercel对接你的S3对象存储（仅下载）
-published: 2025-05-05
-description: '可能很多小伙伴都使用过对象存储，但是他们大部分都没一个图形界面，虽然近年来有了AList这么一个非常全能的服务，但是仍然需要独立服务器，本篇将使用Vercel Function搭建一个精美的S3文件下载'
-image: ../assets/images/2025-05-05-07-45-06-image.png
-tags: [Vercel, Nextjs]
-category: '教程'
-draft: false 
-lang: ''
----
 
 > 视频教程（推荐）： https://www.bilibili.com/video/BV17b5gz5Ea4
 
